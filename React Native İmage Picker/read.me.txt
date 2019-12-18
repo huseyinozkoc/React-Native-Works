@@ -1,0 +1,10 @@
+https://docs.expo.io/versions/latest/sdk/imagepicker/
+
+https://docs.expo.io/versions/v36.0.0/sdk/permissions/
+
+https://docs.expo.io/versions/v36.0.0/sdk/constants/
+
+https://snack.expo.io/@bacon/image-picker
+
+https://medium.com/@df.eporwei/a-photo-picker-with-expo-for-react-native-9b7897b69f7f
+
